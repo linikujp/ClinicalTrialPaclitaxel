@@ -1,1 +1,2 @@
 output from the ClinicalTrialParseAll jupyter notebook.
+The csv file uses "||" as delimiter.
